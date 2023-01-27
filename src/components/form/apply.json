@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_form_applies",
+  "info": {
+    "displayName": "Apply",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "jobs": {
+      "type": "json"
+    }
+  }
+}

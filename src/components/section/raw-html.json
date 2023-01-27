@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_section_raw_htmls",
+  "info": {
+    "displayName": "WYSIWYG",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "html": {
+      "type": "richtext"
+    },
+    "class": {
+      "type": "string"
+    }
+  }
+}

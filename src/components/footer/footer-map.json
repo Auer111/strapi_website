@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_footer_footer_maps",
+  "info": {
+    "displayName": "Footer - Map",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "phone": {
+      "type": "string"
+    },
+    "address": {
+      "type": "text"
+    },
+    "hours": {
+      "type": "text"
+    },
+    "wysiwyg": {
+      "type": "component",
+      "repeatable": true,
+      "component": "section.raw-html"
+    }
+  }
+}

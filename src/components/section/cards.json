@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_section_cards",
+  "info": {
+    "displayName": "Cards",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "posts": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::post.post"
+    },
+    "h1": {
+      "type": "string"
+    },
+    "p": {
+      "type": "text"
+    }
+  }
+}
