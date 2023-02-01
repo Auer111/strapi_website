@@ -11,10 +11,10 @@
       "relation": "oneToMany",
       "target": "api::post.post"
     },
-    "h1": {
+    "title": {
       "type": "string"
     },
-    "p": {
+    "subtitle": {
       "type": "text"
     }
   }

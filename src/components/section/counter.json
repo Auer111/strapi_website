@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_section_counters",
+  "info": {
+    "displayName": "Counter",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "inline": {
+      "type": "boolean"
+    },
+    "stats": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::stat.stat"
+    }
+  }
+}

@@ -21,11 +21,16 @@
         "section.highlights",
         "section.testamonials",
         "form.contact",
-        "form.apply"
+        "form.apply",
+        "section.image",
+        "section.counter"
       ]
     },
     "title": {
       "type": "string"
+    },
+    "order": {
+      "type": "integer"
     }
   }
 }
