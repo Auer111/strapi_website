@@ -12,7 +12,7 @@
     "inline": {
       "type": "boolean"
     },
-    "stats": {
+    "collection": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::stat.stat"

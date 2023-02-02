@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_section_before_afters",
+  "info": {
+    "displayName": "BeforeAfter"
+  },
+  "options": {},
+  "attributes": {
+    "left": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "right": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

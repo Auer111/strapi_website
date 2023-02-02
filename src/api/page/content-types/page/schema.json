@@ -23,7 +23,9 @@
         "form.contact",
         "form.apply",
         "section.image",
-        "section.counter"
+        "section.counter",
+        "section.before-after",
+        "section.reviews"
       ]
     },
     "title": {

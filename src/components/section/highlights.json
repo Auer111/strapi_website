@@ -9,7 +9,7 @@
     "title": {
       "type": "string"
     },
-    "highlights": {
+    "collection": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::highlight.highlight"

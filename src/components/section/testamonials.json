@@ -1,11 +1,12 @@
 {
   "collectionName": "components_section_testamonials",
   "info": {
-    "displayName": "Testamonials"
+    "displayName": "Testamonials",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "posts": {
+    "collection": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::post.post"

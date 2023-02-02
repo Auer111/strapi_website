@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_section_cards",
+  "collectionName": "components_section_reviews",
   "info": {
-    "displayName": "Cards",
+    "displayName": "Reviews",
     "description": ""
   },
   "options": {},
@@ -9,7 +9,7 @@
     "collection": {
       "type": "relation",
       "relation": "oneToMany",
-      "target": "api::post.post"
+      "target": "api::review.review"
     },
     "title": {
       "type": "string"

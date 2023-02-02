@@ -12,11 +12,8 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "h1": {
+    "title": {
       "type": "string"
-    },
-    "p": {
-      "type": "text"
     },
     "img": {
       "type": "media",
