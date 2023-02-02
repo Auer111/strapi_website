@@ -25,7 +25,8 @@
         "section.image",
         "section.counter",
         "section.before-after",
-        "section.reviews"
+        "section.reviews",
+        "section.ticker"
       ]
     },
     "title": {
