@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_compares",
+  "info": {
+    "displayName": "Compare",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "json": {
+      "type": "json"
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    }
+  }
+}
