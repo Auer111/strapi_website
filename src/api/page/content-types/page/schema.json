@@ -27,7 +27,8 @@
         "section.before-after",
         "section.reviews",
         "section.ticker",
-        "section.compare"
+        "section.compare",
+        "section.fa-qs"
       ]
     },
     "title": {
