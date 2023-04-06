@@ -28,7 +28,8 @@
         "section.reviews",
         "section.ticker",
         "section.compare",
-        "section.fa-qs"
+        "section.fa-qs",
+        "section.splash"
       ]
     },
     "title": {

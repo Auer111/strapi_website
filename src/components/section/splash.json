@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_section_splashes",
+  "info": {
+    "displayName": "Splash"
+  },
+  "options": {},
+  "attributes": {
+    "inline": {
+      "type": "boolean"
+    }
+  }
+}
